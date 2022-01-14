@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ZigyInGitHub
+- 👀 I’m interested in web development.
+- 🌱 I’m currently learning web technologies.
+- 💞️ I’m looking to collaborate on small teams or startups.
